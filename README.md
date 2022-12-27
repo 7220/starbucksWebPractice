@@ -12,8 +12,8 @@
 [DEMO+signin](https://priceless-bhabha-83fc0d.netlify.app/)
 
 ![Starbucks](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/main_screenshot.jpg)
-
-## 문자 인코딩(Character Encoding) 설정
+자
+## 문 인코딩(Character Encoding) 설정
 
 문자가 인코딩되는 방식을 설정합니다.
 
